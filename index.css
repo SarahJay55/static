@@ -1,0 +1,11 @@
+#header {
+    color: red;
+}
+
+header + audio {
+    border: 1px solid black;
+}
+
+body {
+    background-image: '20170812_142928.jpg';
+}
