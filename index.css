@@ -7,5 +7,5 @@ header + audio {
 }
 
 body {
-    background-image: '20170812_142928.jpg';
+    background-image: url('20170812_142928.jpg');
 }
